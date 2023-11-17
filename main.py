@@ -1,4 +1,4 @@
-pip intall nltk
+
 from tracemalloc import stop
 import streamlit as st
 import numpy as np
